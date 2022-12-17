@@ -1,0 +1,19 @@
+x = 'lionel messi', 'neymar', 'ronaldo', 'alvarez'
+y = 'lewandoski', 'griezmann', 'aguero', 'pogba'
+print(x)
+print(y)
+print(x+y)
+# 6557
+x = 'vjjoiigdgsgkh8khdgggskgguafsfs'
+y = 'pogbshustabcjviossnviifskffsmfeof'
+print(x.upper())
+print(y.lower())
+# 5641
+mytuple = ("apple", "banana", "cherry")
+myit = iter(mytuple)
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(mytuple[0])
+print(mytuple[2])
+print(mytuple[1])
